@@ -88,6 +88,7 @@ docker build --build-arg NLM_URL=<nlm-url> .
 Resources
 ---------
 - [Official Docs](https://knowledge.autodesk.com/search-result/caas/downloads/content/autodesk-network-license-manager-for-linux.html)
+- [Forum Autodesk+original github repo](https://forums.autodesk.com/t5/maya-forum/flexlm-license-manage-server-docker-container/td-p/6616579)
 
 Supports
 --------
